@@ -1,4 +1,4 @@
-# 679-physical-therapy
+# Dimenstionality-reduction-for-functional-data
 
 For this project we worked with Kerry Costello, PhD, a postdoctoral scholar in the Movement
 and Applied Imaging Lab at Sargent College, BU. As a part of her research work, she is working
